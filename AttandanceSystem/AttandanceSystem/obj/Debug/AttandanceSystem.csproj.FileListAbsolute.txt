@@ -1,0 +1,12 @@
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.exe.config
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.exe
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.pdb
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.csprojResolveAssemblyReference.cache
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.exe
+c:\users\francis ann\documents\visual studio 2012\Projects\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.pdb
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.exe.config
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.exe
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.pdb
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.exe
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\bin\Debug\AttandanceSystem.pdb
+C:\Users\Lyn Lyn\Desktop\AttandanceSystem\AttandanceSystem\obj\Debug\AttandanceSystem.csprojResolveAssemblyReference.cache
